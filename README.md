@@ -1,3 +1,7 @@
+# Contact Us
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+`mavbrazill@gmail.com`
+
 ## Information We Collect
 We are committed to your privacy and do not collect any personal information through the use of our app.
 
@@ -15,11 +19,6 @@ As we do not collect or store any personal data, there are no data rights applic
 
 ## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
-
-## Contact Us
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
-
-https://www.linkedin.com/company/signscribe/
 
 By using SignScribe, you agree to the terms of this Privacy Policy.
 
